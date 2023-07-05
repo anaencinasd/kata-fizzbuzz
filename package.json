@@ -1,0 +1,22 @@
+{
+  "name": "kata-fizzbuzz",
+  "version": "1.0.0",
+  "description": "kata FizzBuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anaencinasd/kata-fizzbuzz.git"
+  },
+  "author": "Ana Encinas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anaencinasd/kata-fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/anaencinasd/kata-fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
